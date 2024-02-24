@@ -1,0 +1,22 @@
+<html>
+    <body>
+        <table>
+            <tr>
+                <th>Sr.No.</th>
+                <th>Name</th>
+                <th>Mobile</th>
+                <th>Address</th>
+            </tr>
+            <tr>
+                <td>Devraj</td>
+                <td>98765432</td>
+                <td>Udaipur</td>
+            </tr>
+            <tr>
+                <td>Dayal</td>
+                <td>98765432</td>
+                <td>Udaipur</td>
+            </tr>
+        </table>
+    </body>
+</html>
